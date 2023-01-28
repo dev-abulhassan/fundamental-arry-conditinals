@@ -18,21 +18,21 @@ friendsName.shift();
 // console.log(friendsName);
 
 // >= greater than or equal to
-// <= less than or equal to
+<= less than or equal to
 
 
 
 let x = 5;
 let y = 10;
 if (x < y) {
-   // console.log("x is less than y");
+   console.log("x is less than y");
 }
 else{
-   // console.log("x is greater than or  equal to y");
+   console.log("x is greater than or  equal to y");
 }
 
-// console.log(6 != 6);
-// console.log(6 >= 6);
+console.log(6 != 6);
+console.log(6 >= 6);
 
 
 
@@ -56,6 +56,7 @@ if(side1==side2&&side2==side3){
   console.log("scalene triangle");
 }
 
+let myName = "adnan hassan"
 
 var i = 0;
 // for (i=0; i<5; i++){console.log(i)};
